@@ -2,3 +2,4 @@ PROJECT=Final Git Project
 MODE=training
 TAX_RATE=20
 STATUS=stable
+FEATURE_A=enabled
